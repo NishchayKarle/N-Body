@@ -14,4 +14,3 @@ double GetTimer(){
     
 }
 
-
