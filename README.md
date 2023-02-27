@@ -36,7 +36,7 @@
 ## **1.3 - GPU Implementation**
 </br>
 
-**```GRIND RATE```**
+**```GRIND RATE for 100,000 bodies```**
 |                        |  GPU  | OpenMP | Serial |
 | :--------------------: | :---: | :----: | :----: |
 | time per iteration (s) | 0.051 |  1.21  | 55.19  |
